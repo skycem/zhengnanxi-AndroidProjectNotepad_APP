@@ -67,7 +67,7 @@ public class ShareFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
-        Bmob.initialize(getActivity(),"你的比目后端云ID");
+        Bmob.initialize(getActivity(),"43d44ac00dd25f793170e235e693e753");
 
     }
 
