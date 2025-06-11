@@ -32,7 +32,7 @@ public class Main2Activity extends AppCompatActivity  {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        Bmob.initialize(Main2Activity.this,"你的比目后端云ID");
+        Bmob.initialize(Main2Activity.this,"43d44ac00dd25f793170e235e693e753");
         requestWritePermission();
 
         if (savedInstanceState == null) {
