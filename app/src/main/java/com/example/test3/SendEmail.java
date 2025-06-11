@@ -11,8 +11,8 @@ import javax.mail.internet.MimeMessage;
 
 public class SendEmail
 {
-    private final String myEmailAccount = "发送方邮箱";  //发送方
-    private final String myEmailPassword = "邮箱密钥";  //秘钥
+    private final String myEmailAccount = "x15511785960@163.com";  //发送方
+    private final String myEmailPassword = "MWnxHhrEiNpLz3qW";  //秘钥
     private String receiveMailAccount = null;       //接收方
     private String info = null;     //发送内容
 
