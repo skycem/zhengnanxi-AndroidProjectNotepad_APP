@@ -24,8 +24,8 @@ public class tianqi {
         //params用于存储要请求的参数
         Map params = new HashMap();
         //必要的KEY之类的
-        params.put("appid",你的id);
-        params.put("appsecret","你的密钥");
+        params.put("appid",19779922);
+        params.put("appsecret","mfL89vLU");
         //params.put("city",city_user);//只能输入市！！！
         //调用httpRequest方法，这个方法主要用于请求地址，并加上请求参数
         String str = httpRequest(requestUrl,params);
