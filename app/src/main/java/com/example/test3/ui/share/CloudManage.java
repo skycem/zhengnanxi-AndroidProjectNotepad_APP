@@ -46,7 +46,7 @@ public class CloudManage extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.delete_cloud_layout);
-        Bmob.initialize(this,"你的比目后端云ID");
+        Bmob.initialize(this,"43d44ac00dd25f793170e235e693e753");
 
         //初始化控件
         control_init();
