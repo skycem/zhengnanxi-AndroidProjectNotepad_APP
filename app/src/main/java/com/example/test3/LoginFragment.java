@@ -84,7 +84,7 @@ public class LoginFragment extends Fragment {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Bmob.initialize(getActivity(),"6f26b60e82795408fabfdf3ffa7d2cc6");
+        Bmob.initialize(getActivity(),"43d44ac00dd25f793170e235e693e753");
 
 
         //服务的链接---
